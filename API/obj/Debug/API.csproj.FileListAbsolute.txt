@@ -1,0 +1,6 @@
+D:\github\kudumeetup\API\bin\API.dll.config
+D:\github\kudumeetup\API\bin\API.dll
+D:\github\kudumeetup\API\bin\API.pdb
+D:\github\kudumeetup\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\github\kudumeetup\API\obj\Debug\API.dll
+D:\github\kudumeetup\API\obj\Debug\API.pdb
